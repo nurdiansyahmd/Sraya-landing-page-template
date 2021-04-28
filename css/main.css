@@ -451,6 +451,10 @@ img {
   z-index: 2;
 }
 
+.content-area {
+  margin-top: 150px;
+}
+
 .container .sec-heading h2 {
   font-weight: 700;
   font-size: 52px;
@@ -475,5 +479,10 @@ img {
   background-color: #be63f9;
   border-color: #be63f9;
   color: white;
+}
+
+.footer-area {
+  margin-top: 150px;
+  background-color: gr;
 }
 /*# sourceMappingURL=main.css.map */
